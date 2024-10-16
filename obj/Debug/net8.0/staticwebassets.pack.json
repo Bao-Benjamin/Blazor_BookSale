@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\COMPUTER\\BlazorBookSale\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorBookSale.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorBookSale.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\COMPUTER\\BlazorBookSale\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\COMPUTER\\BlazorBookSale\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\COMPUTER\\BlazorBookSale\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\COMPUTER\\BlazorBookSale\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorBookSale.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorBookSale.props",
+      "PackagePath": "build\\BlazorBookSale.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorBookSale.props",
+      "PackagePath": "buildMultiTargeting\\BlazorBookSale.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorBookSale.props",
+      "PackagePath": "buildTransitive\\BlazorBookSale.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
